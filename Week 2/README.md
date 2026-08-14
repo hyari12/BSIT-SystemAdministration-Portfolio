@@ -1,8 +1,8 @@
 # DevCore Innovations — Enterprise Infrastructure Plan
 
-**Student:** JamiHyari D. Andaya
-**Course:** Bachelor of Science in Information Technology (BSIT)
-**Section:** BSIT-4A
+- **Name:** JamiHyari D. Andaya
+- **Course:** Bachelor of Science in Information Technology (BSIT)
+- **Section:** BSIT-4A
 **Project:** Week 02 – Enterprise Infrastructure Planning
 
 ---
